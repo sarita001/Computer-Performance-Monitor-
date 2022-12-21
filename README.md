@@ -1,4 +1,4 @@
-# Computer-Performance-Monitor-
+# Computer Performance Monitor
 Computer Performance Monitor Using Tkinter
 
 ## Technologies Used  
